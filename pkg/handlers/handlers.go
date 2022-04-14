@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"github.com/nwohater/Go-WebApp/pkg/config"
-	"github.com/nwohater/Go-WebApp/pkg/models"
-	"github.com/nwohater/Go-WebApp/pkg/render"
+	"github.com/nwohater/Go-Bookings/pkg/config"
+	"github.com/nwohater/Go-Bookings/pkg/models"
+	"github.com/nwohater/Go-Bookings/pkg/render"
 	"net/http"
 )
 

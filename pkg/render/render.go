@@ -3,8 +3,8 @@ package render
 import (
 	"bytes"
 	"fmt"
-	"github.com/nwohater/Go-WebApp/pkg/config"
-	"github.com/nwohater/Go-WebApp/pkg/models"
+	"github.com/nwohater/Go-Bookings/pkg/config"
+	"github.com/nwohater/Go-Bookings/pkg/models"
 	"html/template"
 	"log"
 	"net/http"

@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"github.com/alexedwards/scs/v2"
-	"github.com/nwohater/Go-WebApp/pkg/config"
-	"github.com/nwohater/Go-WebApp/pkg/handlers"
-	"github.com/nwohater/Go-WebApp/pkg/render"
+	"github.com/nwohater/Go-Bookings/pkg/config"
+	"github.com/nwohater/Go-Bookings/pkg/handlers"
+	"github.com/nwohater/Go-Bookings/pkg/render"
 	"log"
 	"net/http"
 	"time"
